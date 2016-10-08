@@ -1,1 +1,8 @@
+android/.gradle/
+android/.idea/
+android/android.iml
+android/build/
+android/gradle/
+android/gradlew
+android/gradlew.bat
 android/local.properties
