@@ -12,14 +12,16 @@
         "react-native",
         "react-component",
         "android",
-        "exif"
+        "photo",
+	"detect",
+	"listener"
     ],
-    "homepage": "https://github.com/francisco-sanchez-molina/react-native-exif",
+    "homepage": "https://github.com/francisco-sanchez-molina/react-native-detect-new-photo",
     "bugs": {
-        "url": "https://github.com/francisco-sanchez-molina/react-native-exif/issues"
+        "url": "https://github.com/francisco-sanchez-molina/react-native-detect-new-photo/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/francisco-sanchez-molina/react-native-exif.git"
+        "url": "git://github.com/francisco-sanchez-molina/react-native-detect-new-photo.git"
     }
 }
