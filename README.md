@@ -1,11 +1,11 @@
 # React Native Detect New Photo 
-A new camera roll photo detector (only android supported)
+A new camera roll photo detector
 
 
 ## Installation
 ```sh
 npm install francisco-sanchez-molina/react-native-detect-new-photo --save
-rnpm link react-native-detect-new-photo
+react-native link react-native-detect-new-photo
 ```
 
 ## Usage
@@ -18,4 +18,5 @@ ReactNativeDetectNewPhoto.init()
 ReactNativeDetectNewPhoto.registerCallback(_ => console.log('new photo detected!'))
 
 ```
+
 
