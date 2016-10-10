@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		327633601BFAAE28004DA88E /* DetectNewPhoto.m in Sources */ = {isa = PBXBuildFile; fileRef = 3276335D1BFAAE28004DA88E /* DetectNewPhoto.m */; };
+		93A1162E1DAB904100F2E92F /* NewPhotoObserver.m in Sources */ = {isa = PBXBuildFile; fileRef = 93A1162D1DAB904100F2E92F /* NewPhotoObserver.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		327633421BFAAD7E004DA88E /* libDetectNewPhoto.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libDetectNewPhoto.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		3276335D1BFAAE28004DA88E /* DetectNewPhoto.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetectNewPhoto.m; sourceTree = "<group>"; };
+		93A1162C1DAB904100F2E92F /* NewPhotoObserver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewPhotoObserver.h; sourceTree = "<group>"; };
+		93A1162D1DAB904100F2E92F /* NewPhotoObserver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewPhotoObserver.m; sourceTree = "<group>"; };
 		93D3C9D61D1988810029CFEB /* DetectNewPhoto.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetectNewPhoto.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,6 +61,8 @@
 		327633441BFAAD7E004DA88E /* DetectNewPhoto */ = {
 			isa = PBXGroup;
 			children = (
+				93A1162C1DAB904100F2E92F /* NewPhotoObserver.h */,
+				93A1162D1DAB904100F2E92F /* NewPhotoObserver.m */,
 				3276335D1BFAAE28004DA88E /* DetectNewPhoto.m */,
 				93D3C9D61D1988810029CFEB /* DetectNewPhoto.h */,
 			);
@@ -121,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				327633601BFAAE28004DA88E /* DetectNewPhoto.m in Sources */,
+				93A1162E1DAB904100F2E92F /* NewPhotoObserver.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
