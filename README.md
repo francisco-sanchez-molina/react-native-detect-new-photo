@@ -19,4 +19,4 @@ ReactNativeDetectNewPhoto.registerCallback(_ => console.log('new photo detected!
 
 ```
 
-
+0.1.0 support react-native 0.40
